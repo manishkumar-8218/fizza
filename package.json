@@ -41,13 +41,5 @@
     "sass": "^1.39.2",
     "sass-loader": "^12.1.0",
     "vue-template-compiler": "^2.6.14"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/manishkumar-8218/fizza-.git"
-  },
-  "bugs": {
-    "url": "https://github.com/manishkumar-8218/fizza-/issues"
-  },
-  "homepage": "https://github.com/manishkumar-8218/fizza-#readme"
+  }
 }
